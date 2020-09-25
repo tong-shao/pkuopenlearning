@@ -1,3 +1,11 @@
+![license](http://github.zhangqx.com/file-checker/github/tong-shao/pkuopenlearning?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/tong-shao/pkuopenlearning?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/tong-shao/pkuopenlearning?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/tong-shao/pkuopenlearning?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/tong-shao/pkuopenlearning?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/tong-shao/pkuopenlearning?path=.github/PULL_REQUEST_TEMPLATE.md)
+
+
 北京大学软件与微电子学院--华为云新实验班小组项目
 ====
 >本项目主要用于组内分享，仅供学习参考，不用作商业用途
